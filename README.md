@@ -21,22 +21,23 @@ In this program, the **Sieve of Eratosthenes** algorithm is used to find all pri
 # Results
 
 ```
-Limit = 99999
+imit = 9999999
 Digit  : Digit Count : Percentage
 -------------------------------
 0      : 0           :    0.00%
-1      : 2387        :   24.89%
-2      : 1           :    0.01%
-3      : 2402        :   25.04%
+1      : 166104      :   24.99%
+2      : 1           :    0.00%
+3      : 166230      :   25.01%
 4      : 0           :    0.00%
-5      : 1           :    0.01%
+5      : 1           :    0.00%
 6      : 0           :    0.00%
-7      : 2411        :   25.14%
+7      : 166211      :   25.01%
 8      : 0           :    0.00%
-9      : 2390        :   24.92%
-Time taken : 0.02 s 
+9      : 166032      :   24.98%
+Time taken : 1.55s  
 ```
 
+![Pie chart representing data](/meta-chart.png)
 
 
 # Conclusion
