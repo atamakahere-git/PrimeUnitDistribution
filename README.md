@@ -21,7 +21,7 @@ In this program, the **Sieve of Eratosthenes** algorithm is used to find all pri
 # Results
 
 ```
-imit = 9999999
+Limit = 9999999
 Digit  : Digit Count : Percentage
 -------------------------------
 0      : 0           :    0.00%
